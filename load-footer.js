@@ -1,7 +1,6 @@
 (function() {
-    // Change these to your actual URLs
-    var baseUrl = 'C:/Users/la33/OneDrive - American University of Beirut/Documents/OSB-Subsites/Shared Components/AUB-OSB-Footer/';
-    // Or for GitHub: var baseUrl = 'https://raw.githubusercontent.com/yourusername/repo/main/';
+    var baseUrl = 'https://liiwaa-osb.github.io/AUB-OSB-Footer/';
+    // lii replace with live
     
 
    var scriptPath = document.currentScript.src;

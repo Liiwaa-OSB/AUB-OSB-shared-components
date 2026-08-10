@@ -1,7 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 :root {
     --color-primary: #840132;
+    --color-primary-dark: #69132c;
     --color-gray-bg: #808080;
 }
+
+/* @media (min-width: 768px) {
+    .container {
+        padding: 0 1.5rem;
+    }
+} */
 
 
 /* ===== FOOTER ===== */
@@ -152,7 +165,7 @@
 
 /* Bottom social bar */
 .footer-bottom {
-    background: #69132c;
+    background: var(--color-primary-dark);
     padding: 1rem;
     display: flex;
     justify-content: center;
