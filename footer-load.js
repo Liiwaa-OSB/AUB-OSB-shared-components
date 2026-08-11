@@ -1,10 +1,9 @@
 (function() {
     // USE THIS IN THE PAGES
     // <div id="footer-placeholder"></div>
-    // <script src="https://liiwaa-osb.github.io/AUB-OSB-shared-components/load-footer.js"></script>
+    // <script src="https://liiwaa-osb.github.io/AUB-OSB-shared-components/footer-load.js"></script>
 
     var baseUrl = 'https://liiwaa-osb.github.io/AUB-OSB-shared-components/';
-    // lii replace with live
 
    var scriptPath = document.currentScript.src;
     var basePath = scriptPath.substring(0, scriptPath.lastIndexOf('/') + 1);
