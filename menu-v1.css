@@ -17,9 +17,6 @@
   :root {
     --color-primary: #840132;
     --color-primary-dark: #6a132c;
-    --color-accent: #840132;
-    /* fallback, overridden per program */
-    --color-accent-dark: #6a132c;
 
     --color-text-muted: #515151;
     --color-bg-light: #f9fafb;

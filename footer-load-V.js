@@ -1,9 +1,9 @@
 (function() {
     // USE THIS IN THE PAGES
     // <div id="footer-placeholder"></div>
-    // <script src="https://www.aub.edu.lb/osb/AUB_OSB_shared_components/footer-load.js"></script>
+    // <script src="https://liiwaa-osb.github.io/AUB-OSB-shared-components/footer-load-V.js"></script>
 
-    var baseUrl = 'https://www.aub.edu.lb/osb/AUB_OSB_shared_components/';
+    var baseUrl = 'https://liiwaa-osb.github.io/AUB-OSB-shared-components/';
 
    var scriptPath = document.currentScript.src;
     var basePath = scriptPath.substring(0, scriptPath.lastIndexOf('/') + 1);
