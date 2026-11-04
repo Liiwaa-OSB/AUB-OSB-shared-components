@@ -9,9 +9,9 @@
    var scriptPath = document.currentScript.src;
     var basePath = scriptPath.substring(0, scriptPath.lastIndexOf('/') + 1);
 
-    var menuCSS = baseUrl + 'menu.css';
+    var menuCSS = baseUrl + 'menu-LLI.css';
     var menuHTML = baseUrl + 'menu.html';
-    var menuJS = baseUrl + 'menu.js';
+    var menuJS = baseUrl + 'menu-nov26.js';
 
     // Load CSS
     var cssLink = document.createElement('link');
