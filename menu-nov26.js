@@ -359,7 +359,10 @@
         { text: "Combating Trade-Based Financial Crime", url: "https://www.aub.edu.lb/osb/online/combating-trade-based-financial-crime-certificate/Pages/default.aspx", external: true },
         { text: "Strategic Branding in the Digital Era", url: "https://www.aub.edu.lb/osb/online/strategic_branding/Pages/default.aspx", external: true },
         { text: "Investment Analysis and Modern Portfolio Management", url: "https://www.aub.edu.lb/osb/online/investment-analysis-modern-portfolio-management/Pages/default.aspx", external: true },
-        { text: "Fintech and AI", url: "https://www.aub.edu.lb/osb/online/Pages/fintech-AI.htmlx", external: true }
+        { text: "Fintech and AI", url: "https://www.aub.edu.lb/osb/online/Pages/fintech-AI.htmlx", external: true },
+        { text: "Behavioral Finance", url: "https://www.aub.edu.lb/osb/online/Pages/behavioral-finance.html", external: true },
+        { text: "Risk and Regulation", url: "https://www.aub.edu.lb/osb/online/Pages/risk-regulation.html", external: true },
+        { text: "CTBFC Arabic Version", url: "https://www.aub.edu.lb/osb/online/combating-trade-based-financial-crime-certificate-ar/Pages/default.aspx", external: true }
       ]
     },
     {
