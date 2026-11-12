@@ -321,7 +321,7 @@
       links: [
         { text: "Undergraduate Program", url: "/osb/UndergradProgram", external: true },
         { text: "Specialized Masters", url: "/osb/Pages/SpecializedMasters.aspx", external: true },
-        { text: "MBA", url: "/osb/MBA", external: true },
+        { text: "MBA", url: "https://www.aub.edu.lb/osb/Masters/MBA/index.html", external: true },
         { text: "MBA Online", url: "/osb/OMBA/Pages/default.aspx", external: true },
         { text: "Executive MBA", url: "https://www.aub.edu.lb/osb/executive_mba/index.html", external: true },
         { text: "PhD", url: "https://www.aub.edu.lb/osb/phd/index.html", external: true }
