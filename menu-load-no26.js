@@ -1,7 +1,7 @@
 (function() {
     // USE THIS IN THE PAGES
     // <div id="menu-placeholder"></div>
-    // <script src="https://liiwaa-osb.github.io/AUB-OSB-shared-components/menu-load-nov26.js"></script>
+    // <script src="https://liiwaa-osb.github.io/AUB-OSB-shared-components/menu-load-no26.js"></script>
     // https://www.aub.edu.lb/osb/AUB_OSB_shared_components/
 
     var baseUrl = 'https://liiwaa-osb.github.io/AUB-OSB-shared-components/';
@@ -11,7 +11,7 @@
 
     var menuCSS = baseUrl + 'menu-LLI.css';
     var menuHTML = baseUrl + 'menu.html';
-    var menuJS = baseUrl + 'menu-nov26.js';
+    var menuJS = baseUrl + 'menu-no26.js';
 
     // Load CSS
     var cssLink = document.createElement('link');
